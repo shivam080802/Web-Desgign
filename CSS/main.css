@@ -1,0 +1,35 @@
+/**********************************/
+/*********** MAIN SECTION *********/
+/**********************************/
+
+.main-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.home-heading {
+    margin-top: 70px;
+    width: 1220px;
+    font-size: 55px;
+    font-weight: 500;
+    color: #fff;
+    line-height: 1.5;
+    text-align: center;
+}
+
+.ecommerce {
+    font-size: 55px;
+    font-weight: 600;
+    color: #fff;
+    line-height: 1.5;
+    margin-bottom: 20px;
+}
+
+.home-para {
+    font-size: 20px;
+    font-weight: 400;
+    color: #fff;
+    line-height: 1;
+}
